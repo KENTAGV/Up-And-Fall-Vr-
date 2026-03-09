@@ -5,10 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Up And Fall VR/Escenas/Museo VR.unity
+    guid: 4263049c1a0df434a9778351ec7e4927
+  - enabled: 1
+    path: Assets/Up And Fall VR/Escenas/Up And Fall VR.unity
+    guid: 2229da63e125cdc409e4c3a280873b28
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca24072246e6ca649908411c3f22b4b6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b43f37b0d28dc334782c64e906a95381, type: 2}
   m_UseUCBPForAssetBundles: 0
